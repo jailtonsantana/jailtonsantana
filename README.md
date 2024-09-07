@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Jailton SANTANA
 
-<!--
-**jailtonsantana/jailtonsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/jailtonscsantana/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+I am an experienced developer with over 15 years of expertise in the payments industry, specializing in PCI-DSS compliance, secure systems management, and offensive security. I am passionate about uncovering hidden vulnerabilities, proactive security measures, and Red Team activities. My commitment to ethical practices and continuous learning drives my desire to contribute to organizational security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+My goal is to leverage my experience and skills in cybersecurity to protect organizations from emerging threats. I aim to contribute to a Security Operations Center (SOC) or Red Team, applying my expertise in threat detection, vulnerability management, and offensive security operations.
+
+## Skills
+
+| Skill                                     |	Associated Project                                         |
+|-------------------------------------------|------------------------------------------------------------|
+| ...                                       | ...                                                        |
+
+## Tools
+### Network
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div>
+
+### Endpoint
+<div> ... </div>
+
+### SIEM
+<div> ... </div>
+
+## Projects
+<div> ... </div>
